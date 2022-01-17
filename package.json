@@ -1,0 +1,22 @@
+{
+  "name": "workfinder",
+  "version": "1.0.0",
+  "description": "service for search works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fenq2/workfinder-service.git"
+  },
+  "keywords": [
+    "workfinder"
+  ],
+  "author": "fenq2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fenq2/workfinder-service/issues"
+  },
+  "homepage": "https://github.com/fenq2/workfinder-service#readme"
+}
