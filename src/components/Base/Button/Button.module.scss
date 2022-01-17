@@ -1,0 +1,27 @@
+.button {
+    display: flex;
+    align-items: center;
+    padding: 15px 25px;
+    background-color: #0166FF;
+    outline: none;
+    border: 0;
+    font-size: 14px;
+    line-height: 19px;
+    color: #fff;
+    border-radius: 7px;
+    cursor: pointer;
+    text-align: center;
+    justify-content: center;
+
+    &:hover {
+        background-color: #004ec4;
+    }
+
+    &:focus {
+        border: 1px solid #000;
+    }
+}
+
+.fullWidth {
+    width: 100%;
+}
