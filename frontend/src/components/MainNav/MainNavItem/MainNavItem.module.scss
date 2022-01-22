@@ -1,0 +1,12 @@
+.item {
+    display: block;
+    text-decoration: none;
+    color: #262827;
+    font-size: 16px;
+    line-height: 22px;
+    margin-bottom: 24px;
+
+    &:hover {
+        color: #205EC5;
+    }
+}
