@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="189.52mm" height="96.8312mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 18937.73 9675.84"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="117.17" y1="2786.74" x2="6578.59" y2="6887.85">
+   <stop offset="0" style="stop-opacity:1; stop-color:#191B1C"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#545B61"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="5151.64" y1="8305.19" x2="10739.35" y2="5867.83">
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="12270.35" y1="2729.22" x2="18791.35" y2="6927.73">
+   <stop offset="0" style="stop-opacity:1; stop-color:#191B1C"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#2C2F30"/>
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="8487.86" y1="3668.61" x2="10349.63" y2="2602.81">
+  </linearGradient>
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="11373.84" y1="4516.65" x2="10532.76" y2="9656.33">
+  </linearGradient>
+ </defs>	
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1945232975936">
+   <path fill="url(#id0)" d="M688.95 174.38c3661.24,1027.37 4115.28,3270.98 6006.81,6521.83l-1198.09 2207.15 -564.42 746.83 -46.6 0.24c-7.97,-18.92 -27.59,-18.81 -35.56,-37.7 -3.73,-8.82 -22.04,-11.71 -25.77,-20.52 -1278.92,-3022.87 -2735.94,-6057.43 -4546.95,-8985.13 -438.56,-709 -399.54,-660.02 410.58,-432.69z"/>
+   <path fill="url(#id2)" d="M18562.76 76.31c-4011.74,984.11 -4484.44,3368.08 -6438.81,6726.94l1697.85 2810.32 124.87 43.38c13.37,-31.73 95.76,-44.97 109.18,-76.67 1313.4,-3102.69 2885.14,-6175.03 4687.56,-9220.22 250.65,-423.48 323.85,-407.48 -180.65,-283.74z"/>
+   <path fill="url(#id3)" d="M9641.15 2515.83l842.11 980.56c184.84,220.91 129.75,336.62 -148.78,354.38l-1947.19 0c-175.86,-30.22 -187.14,-133.24 -32.89,-309.46l859.14 -999.96c142.53,-143.32 285.08,-167.87 427.61,-25.53z"/>
+   <path fill="url(#id4)" d="M13907.01 9675.42l-2811.82 0c-414.18,-2.22 -581.69,-19.59 -819.79,-484.57 -516.97,-1009.56 -2011.78,-4006.34 -2415.13,-4549.57 -50.24,-67.68 115.79,-88.35 103.43,-71.27 30.11,-55.61 154.92,-78.18 232.64,-71.87l2342.03 3.87c432.77,0.64 492.58,-38.71 664.43,232.68 353.1,453.39 2576.88,5090.69 2853.06,4839.61 -12.86,46.34 -63,107.16 -148.85,101.1z"/>
+   <path fill="url(#id1)" d="M4966.6 9675.42l2811.81 0c414.18,-2.22 581.7,-19.59 819.79,-484.57 581.38,-1135.35 2363.44,-4773.71 2475.04,-4619.48 -30.1,-55.61 -204.45,-79.53 -282.16,-73.21l-2455.84 3.87c-432.78,0.64 -492.59,-38.71 -664.44,232.68 -353.1,453.39 -2576.88,5090.69 -2853.06,4839.61 12.86,46.34 63,107.16 148.86,101.1z"/>
+  </g>
+ </g>
+</svg>

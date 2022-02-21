@@ -2,7 +2,7 @@
     display: flex;
     align-items: center;
     padding: 15px 25px;
-    background-color: #0166FF;
+    background-color: #275efe;
     outline: none;
     border: 0;
     font-size: 14px;
@@ -24,4 +24,12 @@
 
 .fullWidth {
     width: 100%;
+}
+
+.dark {
+  background-color: #33383C;
+
+  &:hover {
+    background-color: #1f2325;
+  }
 }

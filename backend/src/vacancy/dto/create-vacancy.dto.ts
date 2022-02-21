@@ -3,6 +3,7 @@ export class CreateVacancyDto {
   readonly company;
   readonly location;
   readonly description;
+  readonly logo;
   readonly salary;
   readonly tags;
 }

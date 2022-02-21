@@ -8,14 +8,22 @@ interface IButtonProps {
   type: 'button' | 'submit' | 'reset' | undefined;
   variant: string;
   fullWidth?: boolean;
+  onClick?: () => void;
 }
 
-const Button: React.FC<IButtonProps> = ({ text, type, variant, fullWidth }) => {
+const Button: React.FC<IButtonProps> = ({
+  text,
+  type,
+  variant,
+  fullWidth,
+  onClick,
+}) => {
   return (
     <button
       type={type}
+      onClick={onClick}
       className={cx(styles.button, {
-        [styles[variant]]: styles.variant,
+        [styles[variant]]: variant,
         [styles.fullWidth]: fullWidth,
       })}
     >

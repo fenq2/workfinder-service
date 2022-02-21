@@ -1,0 +1,87 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  width: 0;
+  padding: 0;
+  background-color: #fff;
+  border-left: 1px solid #F8F8F8;
+  transition: 0.2s;
+  overflow: hidden;
+
+  &Active {
+    width: 415px;
+  }
+
+  &Wrap {
+    display: flex;
+    flex-direction: column;
+    padding: 70px 50px 50px 50px;
+    height: 100%;
+  }
+}
+
+.footer {
+  display: flex;
+  margin-top: auto;
+  gap: 16px;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.logo {
+  width: 110px;
+  height: 110px;
+  background: #F5F7F6;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.title {
+  display: block;
+  font-weight: bold;
+  padding-top: 20px;
+  font-size: 22px;
+  line-height: 30px;
+}
+
+.subTitle {
+  display: block;
+  font-size: 14px;
+  line-height: 19px;
+  font-weight: 400;
+  padding-top: 8px;
+  color: #A0A1A3;
+}
+
+.main {
+  padding-top: 50px;
+}
+
+.side {
+  &:not(:last-child) {
+      margin-bottom: 40px;
+  }
+
+  &Title {
+      display: block;
+      font-size: 14px;
+      line-height: 19px;
+  }
+
+  &Desc {
+      display: block;
+      font-size: 14px;
+      line-height: 19px;
+      padding-top: 5px;
+      color: #A5A6A8;
+
+      &Normal {
+          font-weight: normal;
+          padding-top: 15px;
+      }
+  }
+}

@@ -18,6 +18,9 @@ export class Vacancy {
   description: string;
 
   @Prop()
+  logo: string;
+
+  @Prop()
   salary: string;
 
   @Prop([String])

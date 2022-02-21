@@ -6,12 +6,12 @@ import styles from './MainNav.module.scss';
 
 const MainNav: React.FC = () => {
   const navList = [
-    { id: 0, text: 'Главная' },
-    { id: 1, text: 'Поиск вакансий' },
-    { id: 2, text: 'Избранные вакансии' },
+    { id: 0, text: 'Главная', icon: 'home-outline' },
+    { id: 1, text: 'Поиск вакансий', icon: 'zoom' },
+    { id: 2, text: 'Избранные вакансии', icon: 'heart-outline' },
   ];
-  const navItems = navList.map(({ id, text }) => (
-    <MainNavItem key={id} title={text} />
+  const navItems = navList.map(({ id, text, icon }) => (
+    <MainNavItem key={id} title={text} icon={icon} />
   ));
   return (
     <nav className={styles.nav}>

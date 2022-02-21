@@ -55,7 +55,7 @@ a:not([class]) {
 
 a,
 button {
-    transition: 0.2s;
+    transition: 0.3s;
 }
 
 img {
@@ -84,3 +84,7 @@ textarea {
     resize: none;
 }
 
+button {
+  border: 0;
+  outline: none;
+}
